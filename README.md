@@ -48,7 +48,11 @@ The app is built using Flutter, ensuring cross-platform compatibility for both A
 - .gitignore
 
 ## Screenshots
-![App Screenshot](assets/screenshot.png)
+![1 (2)](https://github.com/user-attachments/assets/a7c790e9-a442-4d58-8dfd-431876ca58ec)
+![2 png](https://github.com/user-attachments/assets/50335799-32c2-4faa-b1ba-4c31589eece5)
+![3 png](https://github.com/user-attachments/assets/49bf0a61-0548-4dcc-9ba1-612f05999cdf)
+
+
 
 ## Installation
 
